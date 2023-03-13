@@ -17,7 +17,7 @@
 - 🖼️ <a href="https://walid-mou-portfolio.vercel.app/">My portfolio</a>
 
 
-<p><img align="center" alt="Walid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=walidmoua&show_icons=true&theme=radical" /></p>
+<p><img align="center" alt="Walid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=walidmoua&theme=radical&show_icons=true" /></p>
 </br>
 
 ### Languages & Tools: 
