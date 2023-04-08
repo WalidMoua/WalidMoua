@@ -14,7 +14,7 @@
 - ⚡️ A Curious Learner.
 - 🚀 Crypto Enthusiast
 - 🥅 2023 Goals: Contribute more towards Open Source Projects
-- 🖼️ <a href="https://walid-mou-portfolio.vercel.app/">My portfolio</a>
+- 🖼️ My portfolio (Currently Updating 👷‍♂️)
 
 
 <p><img align="center" alt="Walid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=walidmoua&theme=radical&show_icons=true" /></p>
