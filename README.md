@@ -16,11 +16,8 @@
 - 🥅 2023 Goals: Contribute more towards Open Source Projects
 - 🖼️ My portfolio (Currently Updating 👷‍♂️)
 
-<div style="display: flex; flex-direction: row;">
-  <img align="top" alt="Walid's Github Languages Stats" src='https://github-readme-stats.vercel.app/api/top-langs/?username=walidmoua&size_weight=0.5&count_weight=0.5&layout=donut' />
-  <img align="top" alt="Walid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=walidmoua&theme=radical&show_icons=true" />
-</div>
-
+</br>
+  <p align="center"><img align="top" alt="Walid's Github Stats" src="https://github-readme-stats-walidmoua.vercel.app/api?username=walidmoua&theme=radical&show_icons=true" /></p>
 </br>
 
 ### Languages & Tools: 
@@ -32,7 +29,15 @@
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="C#" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/512px-Logo_C_sharp.svg.png?20221121173824" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-</p><br>
+</p>
+<br>
+<br>
+
+<p align="center">
+  <img align="top" alt="Walid's Github Languages Stats" src='https://github-readme-stats-walidmoua.vercel.app/api/top-langs/?username=walidmoua&size_weight=0.5&count_weight=0.5&layout=compact&theme=radical&hide=html,css,cmake'/>
+</p>
+
+<br>
 
 ### Connect with me:
 
