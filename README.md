@@ -16,8 +16,11 @@
 - 🥅 2023 Goals: Contribute more towards Open Source Projects
 - 🖼️ My portfolio (Currently Updating 👷‍♂️)
 
+<div style="display: flex; flex-direction: row;">
+  <img align="top" alt="Walid's Github Languages Stats" src='https://github-readme-stats.vercel.app/api/top-langs/?username=walidmoua&size_weight=0.5&count_weight=0.5&layout=donut' />
+  <img align="top" alt="Walid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=walidmoua&theme=radical&show_icons=true" />
+</div>
 
-<p><img align="center" alt="Walid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=walidmoua&theme=radical&show_icons=true" /></p>
 </br>
 
 ### Languages & Tools: 
@@ -43,3 +46,6 @@
 
 [twitter]: https://twitter.com/walidMoua
 [linkedin]: https://www.linkedin.com/in/walid-mouaaouia-281041238/
+
+
+
