@@ -13,7 +13,7 @@
 - 🏫 Studying Software Engineering .
 - ⚡️ A Curious Learner.
 - 🚀 Crypto Enthusiast
-- 🥅 2023 Goals: Contribute more towards Open Source Projects
+- 🥅 2024 Goals: Contribute more towards Open Source Projects
 - 🖼️ My portfolio (Currently Updating 👷‍♂️)
 
 </br>
