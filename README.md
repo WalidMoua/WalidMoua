@@ -10,7 +10,8 @@
 
   
 #### 🤔 Who Am I!?
-- 🏫 Studying Software Engineering .
+- 🏫 Studying Software Engineering.
+- ☁️ Student Worker at THe LEGO Group.
 - ⚡️ A Curious Learner.
 - 🚀 Crypto Enthusiast
 - 🥅 2024 Goals: Contribute more towards Open Source Projects
