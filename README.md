@@ -42,8 +42,6 @@
 
 ### Connect with me:
 
-
-[<img align="left" alt="Walid | Twitter" width="30px" src="https://cdn.simpleicons.org/twitter/dc143c"/>][twitter]
 [<img align="left" alt="Walid | LinkedIn" width="30px" src="https://cdn.simpleicons.org/linkedin/dc143c"/>][linkedin]
 
 <br>
