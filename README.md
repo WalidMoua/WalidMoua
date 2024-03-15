@@ -11,10 +11,10 @@
   
 #### 🤔 Who Am I!?
 - 🏫 Studying Software Engineering.
-- ☁️ Student Worker at THe LEGO Group.
+- ☁️ Software engineer at The LEGO Group.
 - ⚡️ A Curious Learner.
 - 🚀 Crypto Enthusiast
-- 🥅 2024 Goals: Contribute more towards Open Source Projects
+- 🥅 2025 Goals: Contribute more towards Open Source Projects
 - 🖼️ My portfolio (Currently Updating 👷‍♂️)
 
 </br>
@@ -50,7 +50,6 @@
 
 
 
-[twitter]: https://twitter.com/walidMoua
 [linkedin]: https://www.linkedin.com/in/walid-mouaaouia-281041238/
 
 
