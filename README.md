@@ -10,7 +10,6 @@
 
   
 #### 🤔 Who Am I!?
-- 🏫 Studying Software Engineering.
 - ☁️ Software engineer at The LEGO Group.
 - ⚡️ A Curious Learner.
 - 🚀 Crypto Enthusiast
