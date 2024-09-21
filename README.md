@@ -13,7 +13,6 @@
 - ☁️ Software engineer at The LEGO Group.
 - ⚡️ A Curious Learner.
 - 🚀 Crypto Enthusiast
-- 🥅 2025 Goals: Contribute more towards Open Source Projects
 - 🖼️ My portfolio (Currently Updating 👷‍♂️)
 
 </br>
